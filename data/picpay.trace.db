@@ -1,0 +1,21 @@
+2024-06-04 19:26:52.981742-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONSPASSWORD" not found; SQL statement:
+SELECT * FROM TRANSACTIONSPASSWORD [42102-224]
+2024-06-04 19:27:00.319520-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONSPASSWORD" not found; SQL statement:
+SELECT * FROM TRANSACTIONSPASSWORD [42102-224]
+2024-06-04 19:28:00.456604-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]WALLETS"; SQL statement:
+WALLETS [42000-224]
+2024-06-04 19:28:06.933078-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]WALLETS"; SQL statement:
+WALLETS [42000-224]
+2024-06-04 19:28:10.500666-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]WALLETS TRANSACTIONS"; SQL statement:
+WALLETS TRANSACTIONS [42000-224]
+2024-06-04 19:28:13.342602-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]WALLETS TRANSACTIONS"; SQL statement:
+WALLETS TRANSACTIONS [42000-224]
+2024-06-04 19:28:17.886299-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]WALLETS TRANSACTIONS TRANSACTIONS"; SQL statement:
+WALLETS TRANSACTIONS TRANSACTIONS [42000-224]
